@@ -103,6 +103,7 @@ nav li:last-child a:hover{
 
 .hero-content h1{
     font-family:'Anton', sans-serif;
+    text-shadow: 0 10px 40px #000000;
 
     font-size:9rem;
     line-height:1;
@@ -167,7 +168,7 @@ nav li:last-child a:hover{
 }
 
 .learn-btn:hover{
-    background: #dadada;
+    background: #dddbdb;
     color:black;
     box-shadow:0 10px 20px #ffffff;
 
@@ -184,7 +185,7 @@ nav li:last-child a:hover{
 
 .reality h2{
     font-family:'Anton', sans-serif;
-
+    text-shadow: 0 10px 40px #ff1d25;
     text-align:center;
 
     font-size:5rem;
@@ -215,7 +216,7 @@ nav li:last-child a:hover{
 
     overflow:hidden;
 
-    box-shadow:0 10px 30px #ff1d25;
+    box-shadow:0 10px 10px #ff1d2597;
 }
 
 .card img{
